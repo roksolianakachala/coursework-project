@@ -2,4 +2,4 @@
 
 ## Python
 
-- Python Documentation — Official documentation for learning Python and exploring the standard library.
+- [Python Documentation](https://docs.python.org/3/) — Official documentation for learning Python and exploring the standard library.
