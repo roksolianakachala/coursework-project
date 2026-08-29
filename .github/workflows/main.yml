@@ -22,3 +22,6 @@ jobs:
 
       - name: Say hello
         run: echo "Coursework CI completed successfully!"
+        
+      - name: Break workflow intentionally
+        run: exit 1
