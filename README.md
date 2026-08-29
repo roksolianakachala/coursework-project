@@ -1,4 +1,5 @@
 # Coursework Project
+[![Coursework CI](https://github.com/roksolianakachala/coursework-project/actions/workflows/main.yml/badge.svg)](https://github.com/roksolianakachala/coursework-project/actions/workflows/main.yml)
 
 A Python coursework project created as part of my university studies.
 
